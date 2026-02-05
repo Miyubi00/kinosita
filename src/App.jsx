@@ -8,7 +8,7 @@ import { motion } from "framer-motion";
 
 // --- DATA DUMMY (Ganti bagian ini dengan data JSON Anda nanti) ---
 const TARGET_DATA = {
-  name: "Kinosta Nurfaridzi", // Ganti Nama
+  name: "Kinosita Nurfaridzi", // Ganti Nama
   title: "Professional Ghosting Expert",
   location: "Perum Bumi Cimanganten Asri, Langensari, Kec. Tarogong Kaler, Kabupaten Garut, Jawa Barat 44151", // Ganti Alamat
   mapLink: "https://maps.app.goo.gl/zTbWDFuJCmwZ11Fj8",
